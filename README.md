@@ -57,18 +57,11 @@ function God() {
 <h2>Well, ok... okay 😕, I admit I learned  almost everything on my own, so what?</h2>
 
 <img align="right" width="50%" alt="GIF" src="https://media.giphy.com/media/jFJW3hOGQgTUk/giphy.gif"></img>
-<div>
-   <p>Nobody forces me to do it and yet I do it</p>
-</div>
-<div>
-  <p>Learning every day has become a habit</p>
-</div>
-<div>
-  <p>Know how to carry out research</p>
-</div>
-<div>
-  <p>Having to solve problems alone is an obligation</p>
-</div>
+- [x] Nobody forces me to do it and yet I do it
+- [x] Learning every day has become a habit
+- [x] Know how to carry out research
+- [x] Having to solve problems alone is an obligation
+<!--- [ ] Dormir en cours car le prof est en pilote automatique *(Critique facile, mais vrai)*-->
 
 &nbsp;
 <!-- ## Et tu as fait quoi alors ? -->
