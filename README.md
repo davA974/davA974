@@ -49,11 +49,11 @@ function God() {
 <div>
   <img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"/>
 </div>
-<div align="center">
+<!-- <div align="center">
   <a href="mailto:davidmoreze@hotmail.fr">
     <img width="8%"src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2qqW_29fNz9f2bjxm8oV7Vq6RnLKwrJLphg&usqp=CAU" target="_blank"/>
   </a>
-</div>
+</div> -->
 <h2>Well, ok... okay 😕, I admit I learned  almost everything on my own, so what?</h2>
 
 <img align="right" width="50%" alt="GIF" src="https://media.giphy.com/media/jFJW3hOGQgTUk/giphy.gif"></img>
