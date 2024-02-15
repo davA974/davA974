@@ -80,7 +80,7 @@ Yes
 <h1>only if you want to reread my page</h1>
 
 > Yes
-
+<p>see you soon</p>
 <p align="center">
   <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/Lr4RSBQs8k9aCKKtjI/giphy.gif"/>
 </p>
